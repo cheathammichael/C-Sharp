@@ -1,0 +1,8 @@
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\bin\Debug\Slot Machine.exe.config
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\bin\Debug\Slot Machine.exe
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\bin\Debug\Slot Machine.pdb
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.Form1.resources
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csproj.GenerateResource.Cache
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\obj\Debug\Slot Machine.exe
+C:\Users\novem\Documents\Visual Studio 2015\Projects\Slot Machine\Slot Machine\obj\Debug\Slot Machine.pdb

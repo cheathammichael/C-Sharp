@@ -1,0 +1,8 @@
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe.config
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.pdb
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.Form1.resources
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.Properties.Resources.resources
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csproj.GenerateResource.Cache
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.exe
+c:\users\novem\documents\visual studio 2015\Projects\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.pdb
