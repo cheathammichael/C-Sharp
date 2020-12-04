@@ -1,0 +1,9 @@
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csprojResolveAssemblyReference.cache
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Form1.resources
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.Cache
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+c:\users\novem\documents\visual studio 2015\Projects\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb
